@@ -1,16 +1,13 @@
-### Hi there 👋
+### boa vindas ao meu perfil
 
-<!--
-**biawiit/biawiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é bea
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em comigo 
+
+beatriz.souza23@escola.pr.gov.br
+
+![image](https://github.com/biawiit/biawiit/assets/145670913/e7e069a5-90a4-45eb-a095-fe7187056a5c)
